@@ -1,0 +1,10 @@
+[
+  {
+    "package": "altair",
+    "oncran": true
+  },
+  {
+    "package": "vegawidget",
+    "oncran": true
+  }
+]
