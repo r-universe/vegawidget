@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "altair"]
 	path = altair
 	url = https://github.com/vegawidget/altair
-	shallow = true
-	registered = true
 [submodule "vegawidget"]
 	path = vegawidget
 	url = https://github.com/vegawidget/vegawidget
-	shallow = true
-	registered = true
